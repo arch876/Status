@@ -1,27 +1,26 @@
 Status Plugin
 ====
 
+## Description
 
-## 概要
+MCPE Display in Status.
 
-画面にステータスを表示する
+## Demo
 
-## 動作
+![Demo1](https://github.com/arch876/Status/blob/master/demo1.png)
 
-![DemoImage](https://github.com/arch876/Status/blob/master/demo1.png)
-
-## 必要API
+## RequirementAPI
 
 EconomyAPI
 
-## 使用方法
+## Install
 
-pluginsフォルダに入れる
+Please put it in the plugins folder.
 
-## ライセンス
+## License
 
 [GPL-3.0](https://github.com/arch876/Status/LICENSE)
 
-## 製作者
+## Author
 
 [arch876](https://github.com/arch876)
