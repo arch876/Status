@@ -9,7 +9,7 @@ PocketMine-MP StatusPlugin
 
 ## Demo
 
-![DemoImage](http://i.imgur.com/a/YGtEI.jpg)
+![DemoImage](http://i.imgur.com/YGtEI.jpg)
 
 ## Requirement
 
