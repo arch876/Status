@@ -9,7 +9,7 @@ PocketMine-MP StatusPlugin
 
 ## Demo
 
-![DemoImage](https://github.com/arch876/Status/demo1.png)
+![DemoImage](https://github.com/arch876/Status/blob/master/demo1.png)
 
 ## Requirement
 
