@@ -9,7 +9,7 @@ PocketMine-MP StatusPlugin
 
 ## Demo
 
-![DemoImage](http://imgur.com/a/YGtEI "MinecraftPocketEdition 1.1.4")
+![DemoImage](http://imgur.com/a/YGtEI.jpg)
 
 ## Requirement
 
