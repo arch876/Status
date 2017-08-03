@@ -1,12 +1,13 @@
 Status Plugin
 ====
 
-[Japanese](#japanese)
+[“ú–{Œê](#japanese)
+
 [English](#english)
 
 ----
 
-<h1><a name="japanese">Japanese</a></h1>
+<h1><a name="japanese">“ú–{Œê</a></h1>
 
 ## ŠT—v
 
