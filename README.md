@@ -1,26 +1,28 @@
 Name
 ====
 
-Overview
+Status Plugin
 
 ## Description
 
+PocketMine-MP StatusPlugin
+
 ## Demo
 
-## VS. 
+![DemoImage](http://imgur.com/a/YGtEI "MinecraftPocketEdition 1.1.4")
 
 ## Requirement
 
+EconomyAPI
+
 ## Usage
 
-## Install
-
-## Contribution
+Plugins Folder IN!
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[GPL-3.0](https://github.com/arch876/Status/LICENSE)
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[arch876](https://github.com/arch876)
