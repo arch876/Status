@@ -1,30 +1,41 @@
 Status Plugin
 ====
+
+[Japanese](#japanese)
 [English](#english)
 
-a
+----
 
-a
+<h1><a name="japanese">Japanese</a></h1>
 
-a
+## 概要
 
-a
+ゲーム画面にステータスを出します。
 
-a
+## 画像
 
-a
+![Demo1](https://github.com/arch876/Status/blob/master/demo1.png)
 
-a
+## 必須API
 
-a
+EconomyAPI
 
-a
+## 導入
 
-a
+pluginsフォルダの中に入れてください。
 
-a
+## ライセンス
+
+[GPL-3.0](https://github.com/arch876/Status/LICENSE)
+
+## 製作者
+
+[arch876](https://github.com/arch876)
+
+
 
 <h1><a name="english">English</a></h1>
+
 ## Description
 
 MCPE Display in Status.
