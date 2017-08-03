@@ -24,10 +24,7 @@ a
 
 a
 
-[link](#english)
-
-a
-
+[English](#english)
 ## Description
 
 MCPE Display in Status.
