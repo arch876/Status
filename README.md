@@ -24,7 +24,7 @@ a
 
 a
 
-<a name="english">English</a>
+<h1><a name="english">English</a></h1>
 ## Description
 
 MCPE Display in Status.
