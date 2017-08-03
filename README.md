@@ -1,28 +1,27 @@
-Name
 ====
 
 Status Plugin
 
-## Description
+## 概要
 
-PocketMine-MP StatusPlugin
+画面にステータスを表示する
 
-## Demo
+## 動作
 
 ![DemoImage](https://github.com/arch876/Status/blob/master/demo1.png)
 
-## Requirement
+## 必要API
 
 EconomyAPI
 
-## Usage
+## 使用方法
 
-Plugins Folder IN!
+pluginsフォルダに入れる
 
-## Licence
+## ライセンス
 
 [GPL-3.0](https://github.com/arch876/Status/LICENSE)
 
-## Author
+## 製作者
 
 [arch876](https://github.com/arch876)
