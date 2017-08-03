@@ -1,6 +1,6 @@
 Status Plugin
 ====
-<a name="eng">English</a>
+<a name="english">English</a>
 
 
 
@@ -10,7 +10,8 @@ Status Plugin
 
 
 
-## Description(#eng)
+[link](#english)
+## Description
 
 MCPE Display in Status.
 
