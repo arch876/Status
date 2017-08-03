@@ -31,7 +31,7 @@ class main extends PluginBase implements Listener{
 		$time = date("H:i:s");
 		$name = $player->getName();
 		$k = str_repeat(" ",60);
-			$player->sendTip("\n\n\n§l§o§f".$k."名前§a:§6$".$name."\n§f".$k."所持金§a:§6$".$money."\n§f".$k."日付§a:§6".$date."\n§f".$k."時間§a:§6".$time."§6\n§f".$k."座標§a:§6".$x.",".$y.",".$z."");
+			$player->sendTip("\n\n\n§l§o§f".$k."名前§a:§6".$name."\n§f".$k."所持金§a:§6$".$money."\n§f".$k."日付§a:§6".$date."\n§f".$k."時間§a:§6".$time."§6\n§f".$k."座標§a:§6".$x.",".$y.",".$z."");
 		}
 	}
 }
