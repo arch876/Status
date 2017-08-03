@@ -1,6 +1,6 @@
+Status Plugin
 ====
 
-Status Plugin
 
 ## ŠT—v
 
